@@ -147,7 +147,7 @@ After comparing all models, the **Bagging Regressor** achieved the **highest acc
 A **Streamlit web application** was developed to allow users to interactively predict life expectancy by entering input features.
 
 ```bash
-pip install -r requirements1.txt
+pip install -r requirements.txt
 ```
 
 ### Run the Application
@@ -193,8 +193,6 @@ life_expectancy_prediction
 - life_expectancy_app.py
 
 - requirements.txt
-
-- requirements1.txt
 
 - README.md
 

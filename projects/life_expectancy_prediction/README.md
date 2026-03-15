@@ -1,5 +1,7 @@
 # 🌍 Life Expectancy Prediction using Machine Learning
 
+[![Open Life Expectancy App](https://img.shields.io/badge/Streamlit-App-blue?style=for-the-badge)](https://ml-portfolio-beocuuhnzkgmmrq7xrab93.streamlit.app/)
+
 ## 📌 Project Overview
 This project predicts the **life expectancy of a country** using health, economic, and demographic indicators.
 

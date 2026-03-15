@@ -6,7 +6,12 @@ import joblib
 # Load the trained pipeline
 @st.cache_resource
 def load_pipeline():
-    return joblib.load('life_expectancy_pipeline.pkl')
+    # Get the directory where the current script (life_expectancy_app.py) is located
+    current_dir = os.path.dirname(__file__)
+    # Construct the full path to your pipeline file
+    pipeline_path = os.path.join(current_dir, 'life_expectancy_pipeline.pkl')
+    return joblib.load(pipeline_path)
+
 pipeline = load_pipeline()
 
 

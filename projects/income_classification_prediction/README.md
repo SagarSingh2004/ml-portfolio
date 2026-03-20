@@ -1,6 +1,6 @@
 # 💼 Income Classification using Machine Learning
 
-[![Open Income Prediction App](https://img.shields.io/badge/Streamlit-App-blue?style=for-the-badge)](YOUR_STREAMLIT_LINK_HERE)
+[![Open Income Prediction App](https://img.shields.io/badge/Streamlit-App-blue?style=for-the-badge)](https://ml-portfolio-cbjfwyhq8yndvpdqfstkm3.streamlit.app/)
 
 ## 📌 Project Overview
 This project predicts whether an individual earns **more than $50K or less than or equal to $50K per year** using demographic and employment-related attributes.
@@ -155,7 +155,7 @@ After evaluating all approaches, the best model selected is:
 
 ### 📊 Classification Report & Confusion Matrix
 
-![Classification Report & Confusion Matrix](final_model_classification_report.png)
+![Classification Report & Confusion Matrix](images/final_model_classification_report.png)
 
 ---
 

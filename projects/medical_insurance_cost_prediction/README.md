@@ -1,6 +1,6 @@
 # 💼 Medical Insurance Cost Prediction using Machine Learning
 
-[![Open App](https://img.shields.io/badge/Streamlit-App-blue?style=for-the-badge)](#)
+[![Open App](https://img.shields.io/badge/Streamlit-App-blue?style=for-the-badge)](https://ml-portfolio-cwvrenatficqifujsykozr.streamlit.app/)
 
 ---
 
@@ -215,7 +215,7 @@ streamlit run life_expectancy_app.py
 
 # 📂 Project Structure
 
-```
+
 Medical_Insurance_Cost_Prediction/
 
 ├── Medical_Insurance_cost_prediction.csv
@@ -233,7 +233,7 @@ Medical_Insurance_Cost_Prediction/
 ├── app.py
 ├── requirements.txt
 └── README.md
-```
+
 
 
 ---

@@ -215,7 +215,7 @@ streamlit run life_expectancy_app.py
 
 # 📂 Project Structure
 
-
+```
 Medical_Insurance_Cost_Prediction/
 
 ├── Medical_Insurance_cost_prediction.csv
@@ -233,7 +233,7 @@ Medical_Insurance_Cost_Prediction/
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ---

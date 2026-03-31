@@ -1,6 +1,6 @@
 # 🫘 Dry Bean Classification using Machine Learning
 
-[![Open Bean Classification App](https://img.shields.io/badge/Streamlit-App-green?style=for-the-badge)](https://your-streamlit-link-here)
+[![Open Bean Classification App](https://img.shields.io/badge/Streamlit-App-green?style=for-the-badge)](https://beans-multiclass-classification-prediction.streamlit.app/)
 
 ---
 
@@ -149,7 +149,7 @@ pip install -r requirements.txt
 ### Run the Application
 
 ```bash
-streamlit run life_expectancy_app.py
+streamlit run app.py
 ```
 
 ---
